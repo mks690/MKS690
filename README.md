@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**mks690/MKS690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MKS690 GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
 Here are some ideas to get you started:
 
